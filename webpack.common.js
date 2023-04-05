@@ -34,8 +34,8 @@ module.exports = {
           "style-loader",
           // Translates CSS into CommonJS
           "css-loader",
+          //For tailwind
           "postcss-loader",
-          // Compiles Sass to CSS
         ],
       },
     ],
